@@ -120,7 +120,7 @@ defaults write com.apple.finder FXPreferredViewStyle -string "clmv"
 # Disable the warning before emptying the Trash
 defaults write com.apple.finder WarnOnEmptyTrash -bool false
 
-# Empty Trash securely by default
+# Empty Trash non-securely by default
 defaults write com.apple.finder EmptyTrashSecurely -bool false
 
 

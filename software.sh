@@ -21,6 +21,7 @@ brew cask install spectacle
 brew cask install spotify
 brew cask install spotifree
 brew cask install the-unarchiver
+brew cask install jumpcut
 
 # oh-my-zsh
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
